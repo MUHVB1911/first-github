@@ -1,8 +1,8 @@
 #answers {
-  display: flex;          /* يخلي العناصر جنب بعض */
-  justify-content: center;          /* يخلي العناصر جنب بعض */
-  gap: 75px;              /* مسافة بين الأزرار */
-  flex-wrap: wrap;        /* لو المكان ضيق ينزلوا سطر تاني */
+  display: flex;        
+  justify-content: center;          
+  gap: 75px;              
+  flex-wrap: wrap;  ا
 }
 
 #answers button {
