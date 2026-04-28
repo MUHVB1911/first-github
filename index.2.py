@@ -9,11 +9,10 @@ print("whats your num ?")
 num = input()
 print("but wait, whats your gender")
 answer = input()
-if answer = "male"
-print("okay your boy")
-elif answer = "female"
-print("okay your girl")
-
+if answer == "male":
+    print("okay your boy")
+if answer == "female":
+    print("okay your girl")
 print("collecting data wait....")
 print("_________________________________________________________________________________________-")
 print("okay now its yur data is hear")
