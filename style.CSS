@@ -1,4 +1,5 @@
 .container {
+  background-color: rgb(133, 87, 27);
   display: flex;          /* يخلي العناصر جنب بعض */
   justify-content: center;          /* يخلي العناصر جنب بعض */
   gap: 75px;              /* مسافة بين الأزرار */
