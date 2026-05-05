@@ -21,3 +21,13 @@ print("age = " + age)
 print("country = " + country)
 print("num = " + num)
 print("gender = " + answer)
+print("________________________________")
+print("lets play !")
+answer = input()
+print(name + " , what's the capital of France ?")
+if answer == "paris":
+print ("yes , you're genuios " + name + " lets continue" )
+print("complete the name : Albert Ainech... ")
+answer = input ()
+if answer == ainchten:
+print ("good !")
